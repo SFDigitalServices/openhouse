@@ -1,11 +1,10 @@
-# San Francisco Digital Services Open House Repo
-Everything related to our hiring open house events.
+# San Francisco Digital Services Open House
+This repo documents our hiring [open house events](#events) and [code of conduct](#code-of-conduct).
 
-This repo will list the Code of Conduct and link to all relevant documents and webpages.
+## Events
+- 2/16/2022: [First open house event](https://sf.gov/events/february-16-2022/meet-san-francisco-digital-services)
 
-It will also list our open house events.
-
-## Code of Conduct
+## Code of conduct
 
 Welcome to the San Francisco Digital Services hiring open house. We ask participants to adhere to the following guidelines:
 
@@ -16,7 +15,3 @@ Welcome to the San Francisco Digital Services hiring open house. We ask particip
 5. Be thoughtful when you speak. Be courteous, don’t interrupt the speaker, use the chat or raise hand feature. 
 6. Use the chat/Q&A feature to ask questions and engage in discussion.
 7. Be patient with the hosts as they relay your question to the speaker, and understand that questions may be held until the end of the presentation, that we may not have time for all questions.
-
-## List of Open House Events
-
-2/16/2022: First open house event ([SF.gov event link](https://sf.gov/events/february-16-2022/meet-san-francisco-digital-services))   
