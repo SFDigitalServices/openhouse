@@ -16,3 +16,7 @@ Welcome to the San Francisco Digital Services hiring open house. We ask particip
 5. Be thoughtful when you speak. Be courteous, don’t interrupt the speaker, use the chat or raise hand feature. 
 6. Use the chat/Q&A feature to ask questions and engage in discussion.
 7. Be patient with the hosts as they relay your question to the speaker, and understand that questions may be held until the end of the presentation, that we may not have time for all questions.
+
+## List of Open House Events
+
+2/16/2022: First open house event ([SF.gov event link](https://sf.gov/events/february-16-2022/meet-san-francisco-digital-services)
