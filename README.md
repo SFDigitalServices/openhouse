@@ -19,4 +19,4 @@ Welcome to the San Francisco Digital Services hiring open house. We ask particip
 
 ## List of Open House Events
 
-2/16/2022: First open house event ([SF.gov event link](https://sf.gov/events/february-16-2022/meet-san-francisco-digital-services)
+2/16/2022: First open house event ([SF.gov event link](https://sf.gov/events/february-16-2022/meet-san-francisco-digital-services))   
